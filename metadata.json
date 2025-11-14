@@ -1,0 +1,5 @@
+{
+  "name": "COBOL AI Terminal",
+  "description": "An AI-powered terminal that emulates a vintage COBOL mainframe environment. Interact with a helpful AI assistant that responds with the persona of a 1980s mainframe system.",
+  "requestFramePermissions": []
+}
